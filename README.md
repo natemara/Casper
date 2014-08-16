@@ -1,6 +1,6 @@
 # Casper
 
-The default theme for [Ghost](http://github.com/tryghost/ghost/).
+The default theme for [Ghost](http://github.com/tryghost/ghost/). Customized by [natemara](http://github.com/natemara) for [natemara.com](http://natemara.com).
 
 To download, visit the [releases](https://github.com/TryGhost/Casper/releases) page.
 
